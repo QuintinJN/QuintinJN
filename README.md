@@ -1,9 +1,11 @@
-### Hi there 👋
+Hi I'm Quitin Nel
 
+I'm currently a 3rd year student studying BSc Information Technology
+Here are some ideas to get you started:
 <!--
 **QuintinJN/QuintinJN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
