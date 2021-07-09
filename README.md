@@ -1,7 +1,8 @@
 Hi I'm Quitin Nel
 
-I'm currently a 3rd year student studying BSc Information Technology.
+A competent and determined honours student studying BSc Information Technology.
 Throughout my education, I have demonstrated high levels of motivation, work ethic and teamwork to achieve my grades. I enjoy coding and learning about new technologies and seeing how the world changes around it.
+
 
 <!--
 **QuintinJN/QuintinJN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
