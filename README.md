@@ -1,6 +1,6 @@
 Hi I'm Quitin Nel
 
-A competent and determined honours student studying BSc Information Technology.
+A competent and determined software developer with an honours degree in BSc Information Technology.
 Throughout my education, I have demonstrated high levels of motivation, work ethic and teamwork to achieve my grades. I enjoy coding and learning about new technologies and seeing how the world changes around it.
 
 
